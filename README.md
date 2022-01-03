@@ -4,4 +4,4 @@ This project is in the hope to serve as a reference book for future people to lo
 
 ## 2022
 ### January
-- [\[3 Jan\] Patients with Severe or Acute Illnesses in Xi'an Died of Delayed Hospital Admission Due to Strict COVID-19 Restrictions](https://github.com/Ordo-Boreae/hupomnemata/blob/main/2021-01.md#3-jan-patients-with-severe-or-acute-illnesses-in-xian-died-of-delayed-hospital-admission-due-to-strict-covid-19-restrictions)
+- [\[3 Jan\] Patients with Severe or Acute Illnesses in Xi'an Died of Delayed Hospital Admission Due to Strict COVID-19 Restrictions](https://github.com/Ordo-Boreae/hupomnemata/blob/main/2022-01.md#3-jan-patients-with-severe-or-acute-illnesses-in-xian-died-of-delayed-hospital-admission-due-to-strict-covid-19-restrictions)
