@@ -2,6 +2,10 @@
 
 This project is in the hope to serve as a reference book for future people to look back and reflect on this utterly miserable ‘new era’.
 
+## 2021
+### December
+- \[31 Dec\] Firefighters in Xi'an Responded to A Family Fire by Fence Jumping as the Gate of the Residential Quarter was Blocked by Giant Rocks
+
 ## 2022
 ### January
 - \[2 Jan\] Supplies were Delivered by A Herd of Horses After Vehicles were Barred from Roads in Shangluo, Shaanxi
