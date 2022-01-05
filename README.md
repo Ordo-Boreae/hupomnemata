@@ -8,7 +8,7 @@ This project is in the hope to serve as a reference book for future people to lo
 
 ### October
 - \[26 Oct\] Doctors Sentenced to 15 Months of Imprisonment for Receiving and Treating A Febrile Patient in Secret
-- \[27 Oct\] A Resident Forced to Take Unknown TCM Potions Causing Severe Allergic Reactions Begged but Failed to be Exempt
+- [\[27 Oct\] A Resident Forced to Take Unknown TCM Potions Causing Severe Allergic Reactions Begged but Failed to be Exempt](https://github.com/Ordo-Boreae/hupomnemata/blob/main/2021-10.md#27-oct-a-resident-forced-to-take-unknown-tcm-potions-causing-severe-allergic-reactions-begged-but-failed-to-be-exempt)
 
 ### December
 - \[31 Dec\] Firefighters in Xi'an Responded to A Family Fire by Fence Jumping as the Gate of the Residential Quarter was Blocked by Giant Rocks
