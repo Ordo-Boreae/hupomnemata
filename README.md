@@ -5,10 +5,16 @@
 This project is in the hope to serve as a reference book for future people to look back and reflect on this utterly miserable ‘new era’.
 
 ## 2021
+
+### October
+- \[26 Oct\] Doctors Sentenced to 15 Months of Imprisonment for Receiving and Treating A Febrile Patient in Secret
+- \[27 Oct\] A Resident Forced to Take Unknown TCM Potions Causing Severe Allergic Reactions Begged but Failed to be Exempt
+- 
 ### December
 - \[31 Dec\] Firefighters in Xi'an Responded to A Family Fire by Fence Jumping as the Gate of the Residential Quarter was Blocked by Giant Rocks
 
 ## 2022
+
 ### January
 - \[2 Jan\] Supplies were Delivered by A Herd of Horses After Vehicles were Barred from Roads in Shangluo, Shaanxi
 - [\[3 Jan\] Patients with Severe or Acute Illnesses in Xi'an Died of Delayed Hospital Admission Due to Draconian COVID-19 Restrictions](https://github.com/Ordo-Boreae/hupomnemata/blob/main/2022-01.md#3-jan-patients-with-severe-or-acute-illnesses-in-xian-died-of-delayed-hospital-admission-due-to-draconian-covid-19-restrictions)
