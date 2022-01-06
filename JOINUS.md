@@ -9,3 +9,5 @@ And please note that we are not Wikipedia editors, and it is not our responsibil
 This project has just been founded, and everything (style, structure, presentation, *etc.*) is subjected to change under discussion with other editors (if there will be).
 
 *The Chinese language is allowed in the Issues and Discussions area. The founder themself is a native speaker of Mandarin and can read and write perfect Chinese both in Simplified variation and Traditional (Taiwan-oriented) variation.*
+
+**British English** (*i.e.* ‘English International’, ‘UN English’) is preferred in the ‘Code’ section.
