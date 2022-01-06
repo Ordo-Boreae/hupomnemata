@@ -11,7 +11,7 @@ This project is in the hope to serve as a reference book for future people to lo
 - [\[27 Oct\] A Resident Forced to Take Unknown TCM Potions Causing Severe Allergic Reactions Begged but Failed to be Exempt](https://github.com/Ordo-Boreae/hupomnemata/blob/main/2021-10.md#27-oct-a-resident-forced-to-take-unknown-tcm-potions-causing-severe-allergic-reactions-begged-but-failed-to-be-exempt)
 
 ### December
--\[14–26 Dec\] Shanghai Lecturer Sacked for Questioning the Death Toll of Nanking Incident; Uploader of the Footage of the Lecturer Bullied Online; Supporter of the Lecturer Locked up in an Asylum, Released in a Week yet still Considered Missing
+- \[14–26 Dec\] Shanghai Lecturer Sacked for Questioning the Death Toll of Nanking Incident; Uploader of the Footage of the Lecturer Bullied Online; Supporter of the Lecturer Locked up in an Asylum, Released in a Week yet still Considered Missing
 - \[30 Dec\] Doctors in Xi'an were summoned for a community PCR test mission at half-past five in the morning, waited to be fetched by official buses at half-past seven, ordered to put on PPE at eight, told not to begin before nine, finally allowed to start testing at ten.
 - \[31 Dec\] Firefighters in Xi'an Responded to A Family Fire by Fence Jumping as the Gate of the Residential Quarter was Blocked by Giant Rocks
 
