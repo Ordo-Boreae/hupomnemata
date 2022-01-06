@@ -1,5 +1,7 @@
 **THE MOST IMPORTANT NOTICE**: We recommend you use a separate anonymous profile to commit to this project if you are a citizen of mainland China (no matter if you have left there or not). It’s the basic safety measure to protect us all.
 
+------------
+
 Anyone who wants to help keep a record of the farcical mainland China is welcomed here.
 
 The founder of this project is quite new to Github, and therefore they may need some help on using it, managing this project and collaborating with other editors.
