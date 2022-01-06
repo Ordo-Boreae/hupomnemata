@@ -6,18 +6,18 @@ This project is in the hope to serve as a reference book for future people to lo
 
 ## 2021
 
-### October
+### [October](https://github.com/Ordo-Boreae/hupomnemata/blob/main/2021-10.md)
 - \[26 Oct\] Doctors Sentenced to 15 Months of Imprisonment for Receiving and Treating A Febrile Patient in Secret
 - [\[27 Oct\] A Resident Forced to Take Unknown TCM Potions Causing Severe Allergic Reactions Begged but Failed to be Exempt](https://github.com/Ordo-Boreae/hupomnemata/blob/main/2021-10.md#27-oct-a-resident-forced-to-take-unknown-tcm-potions-causing-severe-allergic-reactions-begged-but-failed-to-be-exempt)
 
-### December
+### [December](https://github.com/Ordo-Boreae/hupomnemata/blob/main/2021-12.md)
 - \[14–26 Dec\] Shanghai Lecturer Sacked for Questioning the Death Toll of Nanking Incident; Uploader of the Footage of the Lecturer Bullied Online; Supporter of the Lecturer Locked up in an Asylum, Released in a Week yet still Considered Missing
 - \[30 Dec\] Doctors in Xi'an were summoned for a community PCR test mission at half-past five in the morning, waited to be fetched by official buses at half-past seven, ordered to put on PPE at eight, told not to begin before nine, finally allowed to start testing at ten.
 - \[31 Dec\] Firefighters in Xi'an Responded to A Family Fire by Fence Jumping as the Gate of the Residential Quarter was Blocked by Giant Rocks
 
 ## 2022
 
-### January
+### [January](https://github.com/Ordo-Boreae/hupomnemata/blob/main/2022-01.md)
 - \[2 Jan\] Supplies were Delivered by A Herd of Horses After Vehicles were Barred from Roads in Shangluo, Shaanxi
 - [\[3 Jan\] Patients with Severe or Acute Illnesses in Xi'an Died of Delayed Hospital Admission Due to Draconian COVID-19 Restrictions](https://github.com/Ordo-Boreae/hupomnemata/blob/main/2022-01.md#3-jan-patients-with-severe-or-acute-illnesses-in-xian-died-of-delayed-hospital-admission-due-to-draconian-covid-19-restrictions)
 - \[3 Jan\] All English Stand-up Comedies in Shanghai were Cancelled from 3 January upon Order of Higher Authorities
