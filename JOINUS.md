@@ -10,4 +10,4 @@ This project has just been founded, and everything (style, structure, presentati
 
 *The Chinese language is allowed in the Issues and Discussions area. The founder themself is a native speaker of Mandarin and can read and write perfect Chinese both in Simplified variation and Traditional (Taiwan-oriented) variation.*
 
-**British English** (*i.e.* ‘English International’, ‘UN English’) is preferred in the ‘Code’ section.
+**British English** (*i.e.*  ‘UN English’, ‘English International’ *de jure*) is preferred in the ‘Code’ section.
