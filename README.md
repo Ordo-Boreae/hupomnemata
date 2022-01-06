@@ -4,7 +4,7 @@
 
 This project is in the hope to serve as a reference book for future people to look back and reflect on this utterly miserable ‘new era’.
 
-[Want to help? Join Ordo Boreae.](JOINUS.md]
+[Want to help? Join Ordo Boreae.](JOINUS.md)
 
 ## 2021
 
