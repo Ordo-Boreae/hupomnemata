@@ -8,6 +8,9 @@ This project is in the hope to serve as a reference book (or an *index*) for fut
 
 ## 2021
 
+### [July](https://github.com/Ordo-Boreae/hupomnemata/blob/main/2021-07.md)
+- \[28 Jul\] Mass Cyberbullying Towards a Man who Chose not to Follow the Fad to Curse the Japanese Athletes after They Won a Ping-Pong Game over Their Mainland Chinese Counterparts
+
 ### [October](https://github.com/Ordo-Boreae/hupomnemata/blob/main/2021-10.md)
 - \[26 Oct\] Doctors Sentenced to 15 Months of Imprisonment for Receiving and Treating A Febrile Patient in Secret
 - [\[27 Oct\] A Resident Forced to Take Unknown TCM Potions Causing Severe Allergic Reactions Begged but Failed to be Exempt](https://github.com/Ordo-Boreae/hupomnemata/blob/main/2021-10.md#27-oct-a-resident-forced-to-take-unknown-tcm-potions-causing-severe-allergic-reactions-begged-but-failed-to-be-exempt)
