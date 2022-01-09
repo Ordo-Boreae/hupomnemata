@@ -30,3 +30,4 @@ This project is in the hope to serve as a reference book (or an *index*) for fut
 - \[5 Jan\] Ambulances Piled up on an Evacuated Street in Xi'an
 - [\[5 Jan\] Xi'an Citizens were Publicly Rebuked, Beaten, Fined or Detained for Leaving Their Homes due to Hunger (A Review of Recent News)](https://github.com/Ordo-Boreae/hupomnemata/blob/main/2022-01.md#5-jan-xian-citizens-were-publicly-rebuked-beaten-fined-or-detained-for-leaving-their-homes-due-to-hunger-a-review-of-recent-news)
 - \[6 Jan\] The Entire City of Yongji, Shanxi Put into a Sudden Lockdown for a Ticket Gate at the Local HS Railway Station’s Exit Tested COVID-19 Positive
+- [\9 Jan\] It is believed that Xi'an citizens are facing more draconian lockdown policies, with doors of flats being sealed one by one in 196 residential quarters.
