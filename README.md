@@ -33,3 +33,4 @@ This project is in the hope to serve as a reference book (or an *index*) for fut
 - \[9 Jan\] It is believed that Xi'an citizens are facing more draconian lockdown policies, with doors of flats being sealed one by one in 196 residential quarters.
 - \[9 Jan\] Footages Show Tientsin (Tianjin) Goes into Strict Lockdown After Omicron Variant Detected
 - \[11 Jan\] Video Shows a Large Group of SWAT Police Vehicles under the Name of ‘Harbin Black Panther Commandos’ Piled-up in a Harbin Street
+- [\[13 Jan\] A Device Named ‘CCP Central Propaganda Department “Learning Xi Strengthens the Nation” Nation-Strengthening Machine’](https://github.com/Ordo-Boreae/hupomnemata/blob/main/_images/2022-01/20220113GMT121312.jpg)
