@@ -35,3 +35,4 @@ This project is in the hope to serve as a reference book (or an *index*) for fut
 - \[11 Jan\] Video Shows a Large Group of SWAT Police Vehicles under the Name of ‘Harbin Black Panther Commandos’ Piled-up in a Harbin Street
 - [\[13 Jan\] A Device Named ‘CCP Central Propaganda Department “Learning Xi Strengthens the Nation” Nation-Strengthening Machine’](https://github.com/Ordo-Boreae/hupomnemata/blob/main/_images/2022-01/20220113GMT121312.jpg)
 - \[13 Jan\] A Man in Shenzhen Put down for Displaying a White Cloth in a Street Crossing with Words that Read ‘Down with Xi Jinping, Defend the Reform and Opening-up’
+-  [\[14 Jan\] Chinese Citizens Facing More Stringent Requirements in Acquiring Passports](https://github.com/Ordo-Boreae/hupomnemata/blob/main/2022-01.md#14-jan-chinese-citizens-facing-more-stringent-requirements-in-acquiring-passports)
